@@ -1,0 +1,1 @@
+python main.py -m colorization-v2-norebal.xml -i downloadl.jfif --coeffs colorization-v2-norebal.npy
